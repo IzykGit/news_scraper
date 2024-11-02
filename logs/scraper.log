@@ -1,0 +1,17 @@
+2024-11-02 17:10:24,185 - INFO - ====== WebDriver manager ======
+2024-11-02 17:10:25,347 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 17:10:25,446 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2024-11-02 17:10:25,552 - INFO - Driver downloading response is 200
+2024-11-02 17:10:26,555 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 17:10:27,327 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-02 17:10:28,013 - INFO - Driver has been saved in cache [C:\Users\lance\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2024-11-02 17:10:29,376 - INFO - Starting scraper and loading URL.
+2024-11-02 17:10:46,167 - INFO - Loading all articles by scrolling.
+2024-11-02 17:10:54,322 - INFO - No content found for article 0. Skipping.
+2024-11-02 17:10:59,676 - INFO - Article 'Nato' saved successfully with ID: 94610181e95bba1a0608079e7a25befc.
+2024-11-02 17:11:08,692 - INFO - No content found for article 2. Skipping.
+2024-11-02 17:11:14,092 - INFO - Publish date not found; using current date for article 3.
+2024-11-02 17:11:14,113 - INFO - Article 'It doesn’t matter if Trump or Harris win. Europe has already lost. – POLITICO' saved successfully with ID: a809100fc6558d91c061658ba317ce15.
+2024-11-02 17:11:17,426 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/db31c2dedee4b4fb5f17cb722c235561
+2024-11-02 17:11:21,507 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000198A4BE3D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/db31c2dedee4b4fb5f17cb722c235561
+2024-11-02 17:11:25,589 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000198A4BE3B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/db31c2dedee4b4fb5f17cb722c235561
