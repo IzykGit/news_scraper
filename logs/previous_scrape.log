@@ -1,17 +1,7 @@
-2024-11-02 17:09:30,444 - INFO - ====== WebDriver manager ======
-2024-11-02 17:09:31,924 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-02 17:09:32,048 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
-2024-11-02 17:09:32,153 - INFO - Driver downloading response is 200
-2024-11-02 17:09:33,216 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-02 17:09:34,124 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-02 17:09:34,938 - INFO - Driver has been saved in cache [C:\Users\lance\.wdm\drivers\chromedriver\win64\114.0.5735.90]
-2024-11-02 17:09:36,400 - INFO - Starting scraper and loading URL.
-2024-11-02 17:09:53,273 - INFO - Loading all articles by scrolling.
-2024-11-02 17:09:56,329 - INFO - Article 'https://news.google.com/read/CBMivAFBVV95cUxQWF9SdFJZZFBKbzJIXzNRUFFvMDlDaUhlMGJldEd0SllveG9iRHFiWFRjbVBZbFJ3anBZdkhBcW96eThLTTBXVEZBWVUxSkx0RDlzTl9EUmE0QTEyU1BsSG1NMDJvNzR4bHRSWFF4REFwSmlsRTBPVW5TQkZBSHlyOTA0cC1TMXYyTFNUS0tEZ0dXMXkzbFhfWUJwcXBySE94Nm9wSnR2OUZjVjRONjAwM2poSWp3MGRWWVRqNNIBvAFBVV95cUxOSFZnOHlUOGdjbzNvM2tDV09yei1vazhOQmVocEoxNzlVUHUyWHh3R3N6Ym5JQW9aLVltb2xjOU1XcUlIZkR0eHptcm9uMUk2Z1hsdEhzUXQ3TmhrdGZoRDd2SGdFZFlydzdCMHJfYmNPYkg2OF9xVURNMHVEUjBuSGFMQnFKaXJFWTc0MGZyd1Flb2N3VF8wYWxYZXQtVFNTU3B4b3ZuYlJYVUpHTUszSnZHbnBCS2YwMGFCaA?hl=en-US&gl=US&ceid=US%3Aen' has already been scraped. Skipping.
-2024-11-02 17:09:56,353 - INFO - Article 'https://news.google.com/read/CBMiWkFVX3lxTE9UWXVDbzN6Y3hOU0pmRVBuSWN4TTZtWG9XSklmbFM0bXVLQkdCYnV5aDVfUlpDX0JWaUJSb3pvekpYeGtESmJaM2lkTno1OGhERnQzblVkTDA5Z9IBX0FVX3lxTE9HakhSR0k4bjlyUTlESExPcUZLZ2kzMWRLMEtjTVBXTzdMR1g0WFBpXzlVTy1sbzdBajkyS2NHM053SFN3MmV2eDRvZUVMOFBtWW10cmZHUEdzWUV5Zkdn?hl=en-US&gl=US&ceid=US%3Aen' has already been scraped. Skipping.
-2024-11-02 17:09:56,377 - INFO - Article 'https://news.google.com/read/CBMijAFBVV95cUxObXBlbWRMc0VBR29wR1g3YzZXbHVfNDg4T0xneWtmM2Q5Y3I2VGxkZ2JNRnpvNGVzNkNPYU1odk5wUDIxMmVvZEM3c3dCMFFHTEtJV0o2UjV6b2JqdHRtVXB2UzFEUDJtQUN6ZHoxaVJVN1NWUFlQclI0MnpzZ1o0YmxHWnNzcTRYU1ZYdw?hl=en-US&gl=US&ceid=US%3Aen' has already been scraped. Skipping.
-2024-11-02 17:09:56,400 - INFO - Article 'https://news.google.com/read/CBMitwFBVV95cUxNUmhJNjk5WTFfY0N5QUV2T0hTYVZrenM2al9vVmhGQmVyNzJJQ1pYS0JrSGJ6ZFprV0tuOXE0ZjFtbnpxQXQ1X0dSS1pqcFY2Y29pVndXaHRiRFNGSk5sRnd5aFU1UkcySnM5cGNVSFV6MURhUFRWTDIzX3BFNk9YNlprZVdGd0FnU1M5dXNSN2wwbjFpU2dsYW9wTnM1RndWWDM1dTB5SjZJbGJVUlZDUzM4VHBMUFU?hl=en-US&gl=US&ceid=US%3Aen' has already been scraped. Skipping.
-2024-11-02 17:10:03,775 - INFO - No content found for article 4. Skipping.
-2024-11-02 17:10:07,282 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/2a03bbdd91f2383eaf96b445f4c3394b
-2024-11-02 17:10:11,367 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000011A9CF31CA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2a03bbdd91f2383eaf96b445f4c3394b
-2024-11-02 17:10:15,458 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000011A9CF33DA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2a03bbdd91f2383eaf96b445f4c3394b
+2024-11-04 21:24:22,910 - INFO - ====== WebDriver manager ======
+2024-11-04 21:24:23,973 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-04 21:24:24,071 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2024-11-04 21:24:24,160 - INFO - Driver downloading response is 200
+2024-11-04 21:24:25,051 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-04 21:24:25,753 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-04 21:24:26,342 - INFO - Driver has been saved in cache [C:\Users\lance\.wdm\drivers\chromedriver\win64\114.0.5735.90]
