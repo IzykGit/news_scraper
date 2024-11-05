@@ -5,3 +5,6 @@ venv
 /_pycache_
 _pycache_
 *_
+
+
+*.json

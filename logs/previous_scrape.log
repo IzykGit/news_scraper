@@ -1,7 +1,100 @@
-2024-11-04 21:24:22,910 - INFO - ====== WebDriver manager ======
-2024-11-04 21:24:23,973 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-04 21:24:24,071 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
-2024-11-04 21:24:24,160 - INFO - Driver downloading response is 200
-2024-11-04 21:24:25,051 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-04 21:24:25,753 - INFO - Get LATEST chromedriver version for google-chrome
-2024-11-04 21:24:26,342 - INFO - Driver has been saved in cache [C:\Users\lance\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2024-11-05 00:56:08,262 - INFO - ====== WebDriver manager ======
+2024-11-05 00:56:09,141 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-05 00:56:09,199 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-05 00:56:09,252 - INFO - Driver [C:\Users\lance\.wdm\drivers\chromedriver\win64\130.0.6723.91\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-05 00:56:10,354 - INFO - WebDriver initialized.
+2024-11-05 00:56:10,354 - INFO - Starting the scraper and loading URL.
+2024-11-05 00:56:23,226 - INFO - Accepted cookies (link)
+2024-11-05 00:56:24,209 - INFO - Opened article https://www.euronews.com/my-europe/2024/11/05/sweden-rejects-applications-for-thirteen-offshore-wind-farms-citing-security-concerns
+2024-11-05 00:56:24,245 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:56:24,309 - INFO - Article 'Sweden rejects applications for thirteen offshore wind farms, citing security concerns' saved successfully.
+2024-11-05 00:56:25,116 - INFO - Opened article https://www.euronews.com/my-europe/2024/11/05/feeling-abandoned-after-historic-floods-valencians-press-on-with-cleanup-effort
+2024-11-05 00:56:25,146 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:56:25,232 - INFO - Article 'Feeling abandoned after historic floods, Valencians press on with cleanup effort' saved successfully.
+2024-11-05 00:56:26,030 - INFO - Opened article https://www.euronews.com/my-europe/2024/11/04/thousands-of-georgian-opposition-supporters-again-rally-in-protest-of-rigged-election-resu
+2024-11-05 00:56:26,060 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:56:26,110 - INFO - Article 'Thousands of Georgian opposition supporters again rally in protest of 'rigged' election result' saved successfully.
+2024-11-05 00:56:26,921 - INFO - Opened article https://www.euronews.com/video/2024/11/04/desperate-rescue-efforts-continue-in-valencias-flooded-car-parks
+2024-11-05 00:56:32,069 - INFO - Selector //div[contains(@class, 'article-body')] did not match any content.
+2024-11-05 00:56:37,163 - INFO - Selector //div[contains(@class, 'post-content')] did not match any content.
+2024-11-05 00:56:42,256 - INFO - Selector //section[contains(@class, 'content')] did not match any content.
+2024-11-05 00:56:42,256 - WARNING - Falling back to page source parsing for content extraction.
+2024-11-05 00:56:42,280 - INFO - Content extracted using page source fallback.
+2024-11-05 00:56:42,322 - INFO - Author not found; set to 'Unknown'.
+2024-11-05 00:56:42,324 - INFO - Article 'Desperate rescue efforts continue in Valencia�s flooded car parks' saved successfully.
+2024-11-05 00:56:42,402 - INFO - Article 'https://www.euronews.com/my-europe/2024/11/05/sweden-rejects-applications-for-thirteen-offshore-wind-farms-citing-security-concerns' has already been scraped. Skipping.
+2024-11-05 00:56:42,417 - INFO - Article 'https://www.euronews.com/my-europe/2024/11/05/feeling-abandoned-after-historic-floods-valencians-press-on-with-cleanup-effort' has already been scraped. Skipping.
+2024-11-05 00:56:42,430 - INFO - Article 'https://www.euronews.com/my-europe/2024/11/04/thousands-of-georgian-opposition-supporters-again-rally-in-protest-of-rigged-election-resu' has already been scraped. Skipping.
+2024-11-05 00:56:42,443 - INFO - Article 'https://www.euronews.com/video/2024/11/04/desperate-rescue-efforts-continue-in-valencias-flooded-car-parks' has already been scraped. Skipping.
+2024-11-05 00:56:42,930 - INFO - Opened article https://www.euronews.com/
+2024-11-05 00:56:48,027 - INFO - Selector //article//div[contains(@class, 'content')] did not match any content.
+2024-11-05 00:56:53,127 - INFO - Selector //div[contains(@class, 'article-body')] did not match any content.
+2024-11-05 00:56:58,217 - INFO - Selector //div[contains(@class, 'post-content')] did not match any content.
+2024-11-05 00:56:58,232 - WARNING - Falling back to page source parsing for content extraction.
+2024-11-05 00:56:58,261 - ERROR - No content found using any method.
+2024-11-05 00:56:58,261 - INFO - No content found for article https://www.euronews.com/. Skipping.
+2024-11-05 00:56:59,776 - INFO - Opened article https://www.euronews.com/green/2024/11/04/import-taxes-and-american-made-cars-how-the-us-election-could-impact-europes-green-economy
+2024-11-05 00:56:59,819 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:56:59,864 - INFO - Article 'Import taxes and American' saved successfully.
+2024-11-05 00:57:01,530 - INFO - Opened article https://www.euronews.com/green/2024/11/02/ruined-plants-energy-heroes-and-dark-hospitals-ukraines-fight-for-light-as-winter-looms
+2024-11-05 00:57:01,579 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:01,623 - INFO - Article 'Ruined plants, energy heroes and dark hospitals' saved successfully.
+2024-11-05 00:57:02,425 - INFO - Opened article https://www.euronews.com/green/2024/11/01/climate-change-was-a-major-us-election-issue-in-2020-why-has-it-taken-a-back-seat-in-2024
+2024-11-05 00:57:02,467 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:02,532 - INFO - Article 'Climate change was a major US election issue in 2020. Why has it taken a back seat in 2024?' saved successfully.
+2024-11-05 00:57:03,332 - INFO - Opened article https://www.euronews.com/green/2024/11/04/nobody-should-be-okay-with-this-cop16-ends-in-confusion-with-no-consensus-on-nature-fundin
+2024-11-05 00:57:03,378 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:03,424 - INFO - Article '�Nobody should be okay with this�' saved successfully.
+2024-11-05 00:57:03,500 - INFO - Article 'https://www.euronews.com/green/2024/11/04/import-taxes-and-american-made-cars-how-the-us-election-could-impact-europes-green-economy' has already been scraped. Skipping.
+2024-11-05 00:57:05,749 - INFO - Opened article https://www.euronews.com/green/2024/11/01/amsterdam-london-madrid-europes-biggest-nerve-centres-at-increasing-risk-from-climate-chan
+2024-11-05 00:57:05,787 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:05,830 - INFO - Article 'Amsterdam, London, Madrid' saved successfully.
+2024-11-05 00:57:05,913 - INFO - Article 'https://www.euronews.com/green/2024/11/01/climate-change-was-a-major-us-election-issue-in-2020-why-has-it-taken-a-back-seat-in-2024' has already been scraped. Skipping.
+2024-11-05 00:57:07,407 - INFO - Opened article https://www.euronews.com/green/2024/11/01/immeasurable-loss-uk-apologises-for-childs-death-in-case-that-made-air-pollution-national-
+2024-11-05 00:57:07,449 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:07,496 - INFO - Article 'UK government issues apology and financial settlement to family of child killed by air pollution' saved successfully.
+2024-11-05 00:57:08,314 - INFO - Opened article https://www.euronews.com/green/2024/10/31/why-was-valencia-flooding-so-deadly-did-warning-texts-come-too-late-and-whats-the-climate-
+2024-11-05 00:57:08,357 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:08,480 - INFO - Article 'Why was Valencia flooding so deadly, did warning texts come too late and what�s the climate link?' saved successfully.
+2024-11-05 00:57:08,558 - INFO - Article 'https://www.euronews.com/green/2024/10/31/why-was-valencia-flooding-so-deadly-did-warning-texts-come-too-late-and-whats-the-climate-' has already been scraped. Skipping.
+2024-11-05 00:57:09,302 - INFO - Opened article https://www.euronews.com/green/2024/11/03/silicon-solar-panels-are-hitting-their-limit-this-uk-lab-is-making-perovskite-the-next-big
+2024-11-05 00:57:09,347 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:09,393 - INFO - Article 'Silicon solar panels are hitting their limit. This UK lab is making perovskite the next big thing' saved successfully.
+2024-11-05 00:57:10,250 - INFO - Opened article https://www.euronews.com/green/2024/11/04/oranges-peppers-tomatoes-the-fruit-and-veg-that-could-be-in-short-supply-as-spanish-farms-
+2024-11-05 00:57:10,295 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:10,341 - INFO - Article 'Oranges, peppers, tomatoes' saved successfully.
+2024-11-05 00:57:11,192 - INFO - Opened article https://www.euronews.com/green/2024/10/31/positive-environmental-stories-from-2024
+2024-11-05 00:57:11,335 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:11,394 - INFO - Article 'Electric wallpaper and carbon' saved successfully.
+2024-11-05 00:57:11,482 - INFO - Article 'https://www.euronews.com/green/2024/11/02/ruined-plants-energy-heroes-and-dark-hospitals-ukraines-fight-for-light-as-winter-looms' has already been scraped. Skipping.
+2024-11-05 00:57:11,961 - INFO - Opened article https://www.euronews.com/
+2024-11-05 00:57:17,069 - INFO - Selector //article//div[contains(@class, 'content')] did not match any content.
+2024-11-05 00:57:22,182 - INFO - Selector //div[contains(@class, 'article-body')] did not match any content.
+2024-11-05 00:57:27,280 - INFO - Selector //div[contains(@class, 'post-content')] did not match any content.
+2024-11-05 00:57:27,298 - WARNING - Falling back to page source parsing for content extraction.
+2024-11-05 00:57:27,326 - ERROR - No content found using any method.
+2024-11-05 00:57:27,327 - INFO - No content found for article https://www.euronews.com/. Skipping.
+2024-11-05 00:57:28,541 - INFO - Opened article https://www.euronews.com/green/2024/10/29/can-regenerative-farming-save-europes-peasant-farmers
+2024-11-05 00:57:33,629 - INFO - Selector //article//div[contains(@class, 'content')] did not match any content.
+2024-11-05 00:57:33,647 - INFO - Content extracted using selector: //article
+2024-11-05 00:57:33,686 - INFO - Article 'Can regenerative farming save Europe�s peasant farmers?' saved successfully.
+2024-11-05 00:57:34,681 - INFO - Opened article https://www.euronews.com/green/2024/10/24/french-farmers-plan-new-wave-of-protests-in-november-triggered-by-anger-over-eu-trade-deal
+2024-11-05 00:57:34,724 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:34,772 - INFO - Article 'French farmers plan new wave of protests in November triggered by anger over EU trade deal' saved successfully.
+2024-11-05 00:57:35,384 - INFO - Opened article https://www.euronews.com/green/2024/07/07/we-are-the-first-impacted-by-climate-change-why-europes-rural-farmers-support-green-polici
+2024-11-05 00:57:35,443 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:35,521 - INFO - Article '�We are the first impacted by climate change�' saved successfully.
+2024-11-05 00:57:36,037 - INFO - Opened article https://www.euronews.com/green/2024/11/04/cop29-what-is-the-paris-agreement-and-how-will-countries-be-held-to-account-in-baku
+2024-11-05 00:57:36,078 - INFO - Content extracted using selector: //article//div[contains(@class, 'content')]
+2024-11-05 00:57:36,127 - INFO - Article 'COP29' saved successfully.
+2024-11-05 00:57:36,206 - INFO - Article 'https://www.euronews.com/green/2024/11/04/nobody-should-be-okay-with-this-cop16-ends-in-confusion-with-no-consensus-on-nature-fundin' has already been scraped. Skipping.
+2024-11-05 00:57:36,225 - INFO - Article 'https://www.euronews.com/green/2024/11/04/import-taxes-and-american-made-cars-how-the-us-election-could-impact-europes-green-economy' has already been scraped. Skipping.
+2024-11-05 00:57:36,240 - INFO - Article 'https://www.euronews.com/green/2024/11/01/amsterdam-london-madrid-europes-biggest-nerve-centres-at-increasing-risk-from-climate-chan' has already been scraped. Skipping.
+2024-11-05 00:57:36,257 - INFO - Article 'https://www.euronews.com/green/2024/11/01/climate-change-was-a-major-us-election-issue-in-2020-why-has-it-taken-a-back-seat-in-2024' has already been scraped. Skipping.
+2024-11-05 00:57:36,276 - INFO - Article 'https://www.euronews.com/green/2024/10/31/why-was-valencia-flooding-so-deadly-did-warning-texts-come-too-late-and-whats-the-climate-' has already been scraped. Skipping.
+2024-11-05 00:57:36,296 - INFO - Article 'https://www.euronews.com/green/2024/10/31/why-was-valencia-flooding-so-deadly-did-warning-texts-come-too-late-and-whats-the-climate-' has already been scraped. Skipping.
+2024-11-05 00:57:36,311 - INFO - Article 'https://www.euronews.com/green/2024/11/03/silicon-solar-panels-are-hitting-their-limit-this-uk-lab-is-making-perovskite-the-next-big' has already been scraped. Skipping.
+2024-11-05 00:57:36,326 - INFO - Article 'https://www.euronews.com/green/2024/11/04/oranges-peppers-tomatoes-the-fruit-and-veg-that-could-be-in-short-supply-as-spanish-farms-' has already been scraped. Skipping.
+2024-11-05 00:57:36,340 - INFO - Article 'https://www.euronews.com/green/2024/10/31/positive-environmental-stories-from-2024' has already been scraped. Skipping.
+2024-11-05 00:57:36,349 - INFO - Article 'https://www.euronews.com/green/2024/11/02/ruined-plants-energy-heroes-and-dark-hospitals-ukraines-fight-for-light-as-winter-looms' has already been scraped. Skipping.
+2024-11-05 00:57:38,512 - INFO - WebDriver closed. Scraping session ended.
